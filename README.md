@@ -4,7 +4,10 @@ Clojure language support for [Atom-IDE](https://ide.atom.io/), powered by the [C
 
 ## Requirements
 
-[`clojure-lsp-adapter`](https://atom.io/packages/clojure-lsp-adapter) requires [Atom `1.21+`](https://atom.io/), [Clojure language server `0.1+`](https://github.com/snoe/clojure-lsp) and the [`atom-ide-ui`](https://atom.io/packages/atom-ide-ui) package to expose the functionality within Atom.
+[`clojure-lsp-adapter`](https://atom.io/packages/clojure-lsp-adapter) requires
+[Atom `1.38+`](https://atom.io/),
+[Clojure language server `0.1+`](https://github.com/snoe/clojure-lsp) and the
+[`atom-ide-ui`](https://atom.io/packages/atom-ide-ui) package to expose the functionality within Atom.
 
 ## Installation
 
