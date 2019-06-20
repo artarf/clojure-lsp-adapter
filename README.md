@@ -33,9 +33,9 @@ Configuration is loaded from zero or more configuration sources.
 ## Contributing
 
 - [Filing bugs and feature requests](https://github.com/artarf/clojure-lsp-adapter/issues/new)
-- [Work with existing issues](https://github.com/artarf/clojure-lsp-adapter/issues),
+- [Work with existing issues](https://github.com/artarf/clojure-lsp-adapter/issues)
 
-See Atom's guide to [contributing to packages](https://github.com/atom/atom/blob/master/docs/contributing-to-packages.md).
+See Atom's guide to [contributing to packages](https://flight-manual.atom.io/hacking-atom/sections/contributing-to-official-atom-packages/).
 
 ## License
 
