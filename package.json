@@ -12,7 +12,7 @@
     "language-server-protocol",
     "language-client"
   ],
-  "repository": "https://github.com/artarf/ide-clojure",
+  "repository": "https://github.com/artarf/atom-ide-clojure",
   "license": "MIT",
   "engines": {
     "atom": ">=1.38.0 <2.0.0"
