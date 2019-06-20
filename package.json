@@ -1,5 +1,5 @@
 {
-  "name": "atom-ide-clojure",
+  "name": "clojure-lsp-adapter",
   "main": "./lib/main",
   "version": "0.0.1",
   "description": "Clojure language support for Atom-IDE",
@@ -12,7 +12,7 @@
     "language-server-protocol",
     "language-client"
   ],
-  "repository": "https://github.com/artarf/atom-ide-clojure",
+  "repository": "https://github.com/artarf/clojure-lsp-adapter",
   "license": "MIT",
   "engines": {
     "atom": ">=1.38.0 <2.0.0"

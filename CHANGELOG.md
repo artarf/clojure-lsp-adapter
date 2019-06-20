@@ -1,3 +1,3 @@
 # Changelog
 
-See: https://github.com/artarf/ide-clojure/releases
+See: https://github.com/artarf/clojure-lsp-adapter/releases
